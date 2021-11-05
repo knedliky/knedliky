@@ -13,5 +13,3 @@ I'm currently in the process of familiarising myself with git, and migrating pro
 I started coding in Java, however, have transitioned into Data Science lanauges - SAS, SQL, R, Scala with most of my focus on Python during the later parts of my current degree.
 
 Please don't hesitate to reach out with any questions, queries or comments!
-
-S
